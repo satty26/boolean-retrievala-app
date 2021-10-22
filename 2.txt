@@ -1,0 +1,47 @@
+Factors that Affect SaaS Pricing Optimization
+Running a SaaS business has never been easy. A decade ago, it was because it was so new to understand. And today it is due to the expansion of the SaaS industry making the competition so stiff. Keeping your SaaS in the running can be challenging in this overcrowded framework. With so much around you, you need something to create a more favourable scenario for your company. And pricing is a key to it.
+Brian Balfour, CEO & Founder, Reforge, says:
+A lot of companies choose pricing randomly or by just looking at competitors. But pricing should be approached with the same thoughtfulness and systematic thinking that we do for product strategy, business model, and other elements of our business. You need to take into account your target audience, economics of your distribution channel, among other things to come up with a thoughtful hypothesis.
+Let’s dig into some factors you should bear in mind when optimizing your SaaS pricing.
+Factors to Consider When Optimizing SaaS Pricing
+Optimizing your SaaS pricing means strengthening your pricing strategy according to the market and customer needs to find the most effective price. It ensures better profits and growth rate for your company. When you cannot incorporate the exact features and demands, ensuring the right product value to your customers can get your business rolling.
+When you optimize your SaaS pricing, have a clear knowledge of your target audience, your product details, brand recognition, competition and market. This helps you select what suits best to your product.
+Let’s discuss some of the factors that play a role in SaaS pricing optimization:
+Value Metric: What will people agree to pay for?
+It is as likely for you to know what you are going to charge for as it is for a customer to know what they are paying for. A value metric is a metric that best explains what value your buyer will gain from your product or service. In a physical product, the product itself is your value metric. But in the case of software, you need to analyse what aspect of your product it is for which the customers can understand the value of your product.
+For example, a task manager app could charge based on the number of tasks allowed in a particular plan or the number of employees in an organisation using the service to increase efficiency. Or a product with multiple features can charge based on the number of features being used. Hence, choose a metric that highlights the key value offered by your product.
+Buyers’ Persona: What does your audience want?
+Use quantitative data - analytics and demographics, and qualitative data - testimonials, interviews and surveys to identify your buyers’ persona. Getting answers to questions like:
+How often do they use your products?
+How did they find out about your company?
+What is so specific about your company/product that they like?
+Do they work individually or in a team?
+What makes you different from your competitors?
+How to improve your services?
+What features do they use the most?
+Do they find your product overpriced?
+etc. helps you understand the buyers’ mindset.
+By really getting to know your customers like that, you’ll also start to figure out the core “value metric” your pricing should be architected around (seats, consumption, etc.), how they need to buy, land and expand potential within customer segments, etc. When it comes to pricing, start with your customer; after all, they’re the ones paying you!" - Lincoln Murphy, Sixteen Ventures.
+Competition - What does the market look like?
+Understand your market. Try to see through the relationship between your competitors and buyers. Notice what is so likeable about your rival product/company and what are they missing out on that is driving away leads. Work out a pricing scheme that eliminates most of their negatives and has add-ons to benefit your audience. Competitors also help you know how much and what your audience is willing to pay for. You can learn from their actions before committing mistakes yourself.
+Manipulating Your Pricing Even Further
+Structure & Design of Your Pricing Page
+In the case of tiered pricing, you want to be smart about how many tiers you should have and what is offered in each tier. Tiers can be driven by feature-set, usage or a combination of both. Your pricing structure also affects the number of leads you acquire. Your plans should have a visible difference in the value of each tier and attract users to the higher tiers. See how virtual event platform Airmeet uses a combination in its pricing:
+You can also use some ‘charm pricing’ tactics that have proved to have an impact on the conversion rate. Some of these tactics are listed below:
+Prices ending in non-zero digits, the foundation of ‘charm pricing’, are believed to have a psychological impact on the buyers.
+Do not make your pricing plan too complex.
+Use price anchoring methods. Setting up a price anchor to give the perception of a discounted price can get you leads. See how Shopify uses price anchoring in its pricing plans.
+Optimizing the design structure of your landing page can also increase your conversion rate. This is a seeming technique but can produce great results if executed smartly. For example - highlight the most promising plan, use a captivating design for your pricing page, organise your content in an easy-to-comprehend format etc. See how WordPress uses a simple yet crisp and attractive pricing page:
+Price Sensitivity Survey
+Price sensitivity is the change in the number of purchases with respect to a change in your product price. It is to monitor what percentage change occurs when you set a price lower or higher than a particular price. This survey helps you understand your buyers and the target market and react accordingly. You can use this to implement price changes smoothly. Experiment with your pricing, perform this survey and earn your product a better value in the market.
+Experiment. Don't be afraid to try new price points. You'll learn how the conversion rates change and get a feel for the price elasticity of your product. You can always grandfather customers too, to make sure the price changes don't accidentally upset current happy customers." - Wade Foster, CEO & Co-founder, Zapier.
+Pricing Optimization Tools
+Pricing optimization tools are software that use algorithms and artificial intelligence to ease the tasks associated with SaaS pricing optimization. Read more about what to look for in pricing optimization software here.
+Caution: Keep These in View
+Price Elasticity
+Test your pricing model to measure its response to changes in the product’s price. You want to make your product inelastic. In simplest terms, price elasticity is the quantitative response to a change in price. A product is inelastic when the demand is constant with the change in price while an elastic product leads to a drop in demand when prices change.
+Tracking & Analysing your SaaS Pricing
+A one-time pricing strategy is not a healthy fit for a SaaS product. SaaS is about customer retention and involves recurring revenue. You want your customers to commit to your product for as long as possible. So, you must monitor your pricing strategy time and again to react faster to the market changes. Stay well informed of the market variations to keep your pricing up to date with the present market conditions. You should revisit your SaaS pricing strategy quarterly or at least biannually. Use data and analytics to keep track of the compatibility of your pricing model with the current market.
+Conclusion
+Fine-tuning a pricing strategy is no easy win. But since pricing has a worthwhile effect in a SaaS business, it is an indispensable process. It holds untapped potential to make your product successful in the market. It also gets keeping your company goals in check, faster and better, into the bargain. For example - obtaining the right value for your product, making payrolls, attracting a customer base, reducing customer attrition, generating revenue etc. With such a promising and positive influence on your SaaS business, optimizing your pricing strategy is not something you can pass over.
+Experiment with your pricing model till you’ve exhausted its potential. Keep your eyes open for any areas of improvement and make the best out of your product in terms of pricing. You yourself should know the value of your product before you can explain it to anyone else.

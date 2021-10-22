@@ -1,0 +1,48 @@
+Micro SaaS 101 : Trends and Top Ideas
+SaaS is a market that is filled with new ideas, growth, and new entries that intensify the market competition. This paves the way for innovation and new prospects that the company must undergo to play the game of the competition. Hence, Micro SaaS started budding and made their way to the market. Micro SaaS are mostly additional add-ons, extensions, or accessories to existing stages or advancements, made to improve a missing element or upgrading a current SaaS solution, for example, clearbit. Micro SaaS isn’t a new term but in recent times it has gained some traction. It’s quite surprising to see the lack of information on this topic, which is essentially a low-risk high-margin SaaS business. So let's see why this is trending and what makes it unique.
+What is Micro SaaS?
+The term Micro SaaS was coined a decade ago, but more recently Tyler Tringas of Storemapper defined it as
+“A SaaS business targeting a niche market, run by one person or a very small team, with small costs, a narrow focus, a small but dedicated user base and no outside funding. Hence, micro-SaaS.”
+Micro SaaS is virtually a pocket-sized SaaS, meaning that it caters to a very specific niche. It’s usually run by a small team or even two or three people. And since it's targeting a much smaller group, the resources used in making and running it are also substantially low. 
+They are location independent, high margins and low risk for the company. The main focus behind the inception of the term micro SaaS is to solve problems using minimal resources.
+How is Micro SaaS different from SaaS?
+Micro SaaS isn’t essentially different from SaaS, rather it uses the same philosophy of creating a recurring revenue stream only on a much smaller scale. Whereas other bigger SaaS companies solve a plethora of problems, Micro SaaS focuses on just one or maybe a very specific and small set of problems for a specific group. For example, Micro SaaS is actively used for attending to the customer needs in a better way. 
+A common thing you will notice in most Micro SaaS companies is that they are mostly bootstrapped, and don’t rely on external funding as opposed to traditional SaaS companies. Whereas SaaS needs bigger teams, office space and huge external funding to keep them running, Micro SaaS could be operated by a single person. For instance, in its initial days Tyler Tringas ran Storemapper single-handedly, while travelling the world.
+So ultimately, when downsizing the familiar SaaS model to a micro SaaS you end up removing a lot of your pain points and responsibilities of running a successful startup.
+The Sudden Rise in Micro SaaS
+Micro-SaaS businesses are attractive in many ways. Primarily, these business owners can get monthly recurring income like any other regular SaaS platform without any major struggles caused in running larger firms. Secondly,  they can be executed and managed from almost anywhere. You can cater to the entire market remotely and all you'll need is an internet connection and a laptop. 
+Another major reason is that the focus is narrowed down to one or two issues. One can come up with the best possible solution for a single problem. Storemapper fits as an excellent real-time example because it provides a really basic service to unravel a transparent problem. It’s an app that may be installed very quickly on an internet site to make a store locator service. There's no coding required which means anyone can handle it. Besides, there is analytics to watch which stores are getting the most traffic. Hence, it's often a micro SaaS that solves a really specific problem.
+Having an option to run a business remotely with minimum hassle is not something that you need to sell someone on. If you're someone who loves to travel, manage a business, and solve a basic issue, then Micro SaaS is more or less a no-brainer for running a profitable business.
+Types of Micro SaaS:
+Platform Dependent:  
+These are developed on pre-existing platforms and the platform risk is concentrated, like Shopify, Salesforce, Chimpcharge, Direct Memo etc.
+Platform Independent: 
+These are standalone software. These could be your mobile apps, web, or even desktop apps like  Placid, Simple Analytics, Headline etc.
+Platform Integrated: 
+These work with multiple platforms so they can be accessed across different platforms and integrated through API protocol to create a  better workflow. This diversification lowers the platform risk. For example, LiveRecover, Leave Me Alone, Mailbrew etc.,
+General Guidelines before Jumping in Headfirst
+There are certain points or rather guidelines that one must keep in mind before starting a Micro SaaS business. There can be plenty of ideas that might seem great and check every checklist, but the key is to find the one that one might enjoy doing. This is necessary because one as a founder must work with a particular idea every day. Dan Norris of WP curve defines it as “enjoyable daily tasks.”
+Picking the right market
+The market drives everything, so picking the right market is crucial before venturing into the idea you want to pursue. A good example of picking the right market could be choosing one which is already growing, or picking up the trending problems and solving them. 
+By doing this you position yourself as a product that solves a problem that is in demand and hence this increases the customer base more easily. This is better than tapping a market that is saturated where solution providers are greater than the actual problems. 
+Finding the right market is the key to draw a line between products that can be a success or a failure. A right market will help anything grow and earn money easily, whereas a wrong market will slow the growth down and will require more marketing efforts.
+Understanding your niche
+The most important part would have to be keeping your niche very narrow. A well-defined audience that is easily identified helps you to narrow down your vision on your customers and get the most out of your resources. Also, a narrower customer base would be a great advantage to make them notice the services that are offered by a particular Micro SaaS.
+Simplicity 
+Having a clear picture of your goal helps a lot. Since micro SaaS will mostly have a smaller goal compared to other bigger products, it’s very important to choose ideas that are achievable and are simple enough to be realistically targeted for.
+As Kunal Shah, the founder of CRED describes it
+“As a product, if you try to become everything for everyone before you become something for someone, you end up becoming nothing for no one.”
+Hence, simplicity is the key to success.
+Top ideas for Micro SaaS business
+Email Management:
+A software to create a basic email follow-up sequence or manage your inbox for better visibility.
+Billing and Invoicing:
+A software to create customizable invoices and Auto Sent to the customers. It can also notify about any failed payments and make it hassle-free.
+Workforce Management:
+A software that helps to plan, manage and track the workforce in an organization. 
+Journaling: 
+Journaling apps to make your entries easier and simple. It will keep track of the tasks that have to be done and managed efficiently.
+Training:
+A  Learning Management System to create a library of courses and track progress. The inclusion of tests and quizzes and an assessment to analyze will be a bonus.
+Honing a craft
+The rise of the Micro SaaS has made the development and building up of a SaaS company a seemingly more accessible achievement for more people. Most people who are building a Micro-SaaS business start it as a project that they can fully own and work on it without the outside pressure. Once it’s alive, one can be assured of stable recurring revenue. Targeting an individual problem and providing unique solutions that are far better than the present ones will always pay off. Also, staying ahead of the competition makes one have an edge over the others and makes them look like an attractive new prospect. 

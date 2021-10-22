@@ -1,0 +1,45 @@
+Should You A/B Test Your Pricing? (and How to do it)
+Finding the right pricing point for your product can be challenging. But since pricing is crucial to any product business, the process is worthy of the labour it deserves. AB testing might be a solution to help you come up with better pricing strategies.
+Let's understand what it is, its strengths and weaknesses, how it works and what could be its possible alternatives.
+What is A/B Testing & How Does it Work in Pricing?
+The premise of A/B testing is experimenting with two variants of a component simultaneously to know which variant performs the best. You gather data for the two variants and study how people respond to which variant, and analyze it to make better decisions.
+Companies also use this technique to experiment with their pricing strategies to find the best one. The worst-case scenario for A/B testing SaaS pricing strategy is A/B testing the "price" by offering two same/similar products at two different prices. This is not a very advisable approach for various reasons discussed further below.
+Better options include A/B testing the "pricing page" by using different designs & structures to display the same information, A/B testing market niches, A/B testing feature sets or tiers of your pricing plan, etc.
+We will see how experimenting with these components of pricing strategy can also help you gain more leads and at the best pricing points.
+Is A/B Testing the "Price" Always a Great Option? If no, Why Not?
+To put it in simple terms, no, A/B testing the price of your SaaS product is not a very healthy option.
+Sure, A/B testing pricing can help you understand the market better. It can increase user engagement, reduced attrition, reduced risks, higher conversion rates and sales, and many more.
+But these strengths do not mean A/B testing cannot have any flaws. Numerous factors make it an indecisive process in pricing. Let us discuss some reasons why you should not A/B test SaaS pricing:
+1. Double-crossing Your Customers
+A/B testing your pricing creates a sense of unfairness in customers regarding your product. It's unethical if some customers can buy a product at a lower price and others pay comparatively more. While A/B testing, your experiment with prices can also create confusion in buyers and may backfire. Say, for example, an employee pitches a software to their boss for Rs 750 per month, and when the boss goes online to check out the software, it shows Rs 900 per month. This may cause frustration, and they might not buy your product at all.
+2. Customers are Paying for Obsolete Pricing.
+After you are done A/B testing your pricing and choosing a price, some of your customers would still pay for the discarded costs. How to handle that? If they are paying less, how to scale the prices? If they are willingly paying more, what about the extra revenue? How to explain the change in prices? This can make your customers lose trust in the SaaS product.
+3. Statistical Significance
+A/B testing SaaS pricing requires a certain number of people choosing both variants to drive a significant statistical inference. It can take too long to get these numbers and requires traction to complete the experiment earlier. If you do get enough stats but not the right people, the results are not reliable.
+How to A/B Test SaaS Pricing Anyway?
+1. Choose Two Similar Products or Plans.
+Testing two different prices for the same product can get ugly. Customers can know you have been two-timing them, and this can smear your brand's name. It is better to choose two products or plans of similar categories. It is even more advisable to use different pricing points for other products/plans of the same category type to test the willingness of customers to pay for your products.
+For example, your email management software allows 50 emails in the basic plan for Rs 150 per month, but the pro plan allows 100 emails for Rs 500 per month. Technically, it would help if you had doubled up the price, too. But this way, you can know which price works better. You can justify the high pricing by adding one or more valuable features.
+2. Pick up Pricing Points for Testing.
+You want to find your sweet spot of pricing that gives maximum revenue. Decide your pricing points based on competition and operational costs. You want to know the range of price for testing and finally, find the price at which you get maximum revenue.
+
+3. Measure Revenue, Not Conversions
+Do not measure the number of conversions you are getting at a special price but the revenue generated. The lower price can usually get you more paying customers. However, it does not ensure keeping your revenue goals in check. Price A gives you way more leads than price B, but the revenue gained in price B may be comparatively more.
+4. Repeat and Test Two New Pricing Points, If Needed
+Repeating and re-testing can help you find the closest sweet spot of maximum revenue. For example, if you have tested two pricing points - Rs 70 and Rs 85 and the latter generated more income, you might want to try Rs 75 and Rs 80 or Rs 80 and Rs 85.
+5. The Price with Maximum Revenue is the Answer.
+Eventually, after testing, iterating, re-testing, find the highest price that brings maximum money on the table with enough customers. Thus, you choose the pricing point that equates to the maximum revenue for your product.
+Finding the Middle Ground - A/B Testing Other Components
+A/B testing the pricing can get tricky. With so many risks involved, it is not a very good practice. When the negatives about testing outweigh the potential benefits it might offer, it is better to find other alternatives that can also help in making better decisions. Let's discuss some alternate components to the A/B test rather than testing the "price" of your SaaS product:
+1. Design & Structure of Pricing Page
+How you present the pricing plans, what design elements you include in your pricing page (like custom testimonials, client logos, FAQs, product features, etc.) can affect the number of leads you get. Test different layouts and orientations of your pricing page to see which variant generates a higher number of potential leads. Here's an example:
+2. Landing Pages
+You can experiment with your SaaS landing pages. The layout of your website can increase conversion rates. Factors like where you display CTAs, the design, content, easy navigation, complexity in website etc., also play a role. Simplifying your landing page copy can double your conversion rate in the SaaS space. Read more about A/B testing landing pages here.
+3. Pricing Tiers
+You can also A/B test your pricing tiers by experimenting with the feature-set included in a tier. For example, below is the pricing plan of Zoom. The "social media streaming" feature can be offered in the lower or upper tier to see how many customers are ready to pay for it in which plan. This can help to know which are the most valuable / most used features for your customers and how to charge them accordingly.
+4. Market Niche
+Knowing which market is most optimal for your product is another way to generate higher revenue. When you are new in the market, instead of launching your product everywhere, you can test a particular market niche and use the responses to infer the ideal environment for your SaaS product. You can also use the data obtained from one market to optimize your strategies before launching your product in another.
+5. Carrying out Surveys
+Why not directly survey your prospects - how much they are willing to pay, how much value they perceive for your product, what features they like/dislike, are they ready to welcome such a product? Direct questions get direct answers and help you bring about immediate results.
+The Bottom Line
+SaaS pricing is tricky for businesses that want to maximize revenue and ensure leads and customer retention improve. A/B testing pricing is not the right choice to find that sweet spot and keep these factors in check simultaneously. If not done rightly, it can get ugly and threaten your brand value. There are a lot of other elements that affect conversion rates and can be experimented with. Look for better alternatives to test to make better choices ultimately.
